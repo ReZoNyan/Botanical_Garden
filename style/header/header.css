@@ -1,0 +1,67 @@
+.header {
+}
+.container {
+}
+.header__content {
+}
+.menu {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 142px;
+}
+.logo__img {
+    margin-right: 14px;
+}
+.logo__text {
+    margin: 5px 0px 0px 6px;
+}
+.first__half--logo-text {
+    font-size: 23px;
+    text-transform: uppercase;
+    color: #343D33;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    letter-spacing: 3.3px;
+}
+.second__half--logo-text {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+.nav {
+}
+.nav__list {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.nav__item {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #414840;
+}
+.nav_button{
+    border: 2px solid #343D33;
+    padding: 15px 30px;
+    font-size: 14px;
+    color: #343D33;
+    font-weight: bold;
+}
+.nav__link {
+}
+.hero {
+}
+.hero__content {
+}
+.hero__text {
+}
+.hero__title {
+}
