@@ -1,0 +1,48 @@
+.content {
+}
+.container {
+}
+.content__content {
+    background-color: #343D33;
+    margin-top: 115px;
+}
+.top__content {
+    display: flex;
+    justify-content: space-around;
+    gap: 89px;
+}
+.img__top-contnent {
+    padding: 96px 0 0 179px;
+}
+.text__content {
+    padding: 96px 181px 0 0;
+}
+.title__content {
+font-family: "Libre Baskerville", sans-serif;
+font-weight: 400;
+font-size: 45px;
+line-height: 110%;
+text-transform: capitalize;
+color: #fff;
+}
+.text__content-div {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #fff;
+}
+.btn__content {
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 14px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+color: #fff;
+padding: 20px 40px;
+border: 2px solid #fff;
+}
+.bottom__content {
+    margin-top: 80px;
+    padding: 0 181px 96px 179px;
+}

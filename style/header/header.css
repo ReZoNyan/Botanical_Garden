@@ -3,15 +3,16 @@
 .container {
 }
 .header__content {
+    padding-left: 99px;
 }
 .menu {
     display: flex;
     align-items: center;
+    gap: 142px;
 }
 .logo {
     display: flex;
     justify-content: space-around;
-    margin-right: 142px;
 }
 .logo__img {
     margin-right: 14px;

@@ -4,7 +4,8 @@
 }
 .hero__content {
     display: flex;
-    gap: 184px;
+    justify-content: space-between;
+    padding-left: 99px;
 }
 .hero__text-button {
     margin-top: 225px;
@@ -38,6 +39,7 @@
 }
 .hero__img {
     margin-top: 71px;
+    padding-right: 111px;
 }
 .hero__image {
 }
